@@ -1,0 +1,21 @@
+#login{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 150px;//在这里居中会出现问题
+}
+
+#user{
+   text-align: left;
+}
+#body2{
+    background-color: #494949;
+}
+#cancel{
+    margin-left: 40px;
+}
+#black{
+    margin-top: 50px;
+}
+#s1{
+    color: red;
+}
